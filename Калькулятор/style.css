@@ -1,0 +1,79 @@
+hr{
+	height: 5px;
+	background-color: #515151;
+	border-color: black;
+}
+button{
+	border-width: 10px;
+	margin: 5px;
+	padding: 15px;
+}
+#main{
+	margin: 5px;
+}
+
+
+#first{
+	width: 100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;  
+
+}
+#second{
+	width: 100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;  
+
+}
+#third{
+	width: 100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;  
+
+}
+#zero{
+	width: 100%;
+	display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+
+#easyButton{
+	float: left;
+	width: 50%;
+}
+#hardButton{
+	float: right;
+	width: 50%;
+}
+input{
+	width: 70%;
+}
+#plus{
+	float: left;
+	width: 48%;
+	font-size: 40px;
+}
+#minus{
+	float: right;
+	width: 48%;
+	font-size: 40px;
+}
+#multiplication{
+	float: left;
+	width: 48%;
+	font-size: 40px;
+}
+#division{
+	float: right;
+	width: 48%;
+	font-size: 40px;
+}
+#res{
+	float: right;
+}
