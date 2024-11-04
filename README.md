@@ -1,1 +1,1 @@
-# Nastya O.O.
+# Calcilator
